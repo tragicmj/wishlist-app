@@ -27,7 +27,7 @@ const App = () =>  {
 
               <Stack.Screen
                 name="Home"
-                component={Add}
+                component={Home}
                 options={{
                   headerStyle:{
                     backgroundColor:"#0f4c75"
